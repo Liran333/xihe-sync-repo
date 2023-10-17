@@ -7,7 +7,7 @@ require (
 	github.com/huaweicloud/huaweicloud-sdk-go-obs v3.22.11+incompatible
 	github.com/opensourceways/community-robot-lib v0.0.0-20230111083119-2d2c0df320bb
 	github.com/opensourceways/kafka-lib v0.0.0-20230905120934-4961d2b76841
-	github.com/opensourceways/redis-lib v0.0.0-20230830095926-13d246a18179
+	github.com/opensourceways/redis-lib v0.0.0-20231017123557-34d62d1c7a09
 	github.com/sirupsen/logrus v1.9.3
 	github.com/xanzy/go-gitlab v0.73.1
 	gorm.io/driver/mysql v1.3.4
