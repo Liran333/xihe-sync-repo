@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/huaweicloud/huaweicloud-sdk-go-obs v3.22.11+incompatible
-	github.com/opensourceways/community-robot-lib v0.0.0-20231017091742-fe8b59249e0c
+	github.com/opensourceways/community-robot-lib v0.0.0-20231018034126-a664e14dbb9d
 	github.com/opensourceways/kafka-lib v0.0.0-20230905120934-4961d2b76841
 	github.com/opensourceways/redis-lib v0.0.0-20231017144431-262c6f22f36a
 	github.com/sirupsen/logrus v1.9.3
